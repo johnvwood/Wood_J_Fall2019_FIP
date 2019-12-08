@@ -1,2 +1,2 @@
-# Wood_John_Integrated
-Class B Final Website Assignment
+# Integrated Website Assignment
+GutenPress.com is a an online printing organization that produces from local to corporate scale orders.
